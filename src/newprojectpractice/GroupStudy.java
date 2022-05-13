@@ -7,6 +7,9 @@ public class GroupStudy {
 		String d =  "Rohullah";
 		
 		String f = "Sayed";
+		int r = 10;
+		
+		System.out.println(f+ "jaan");
 
 	}
 
